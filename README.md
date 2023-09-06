@@ -1,2 +1,2 @@
 # repo1
-Python astronomy first repository
+Python astronomy first repository.
