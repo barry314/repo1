@@ -1,2 +1,2 @@
-# repo1
+# Python DeCal
 Python astronomy first repository.
